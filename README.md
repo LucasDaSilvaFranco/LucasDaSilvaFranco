@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Lucas%20Franco&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%")
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Lucas%20Franco&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%">
 
 # 🚀 Desenvolvedor Full Stack & Especialista em Infraestrutura
 
