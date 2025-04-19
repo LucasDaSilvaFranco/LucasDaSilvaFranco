@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-> "O cara do TI!."
+> "O cara do TI!"
 
 Com mais de 9 anos de experiência em tecnologia, sou movido pela paixão por desenvolver soluções inteligentes e eficientes. Minha trajetória é marcada pela busca contínua por inovação e excelência técnica, aliando domínio prático a uma visão estratégica voltada para impacto real. Acredito na tecnologia como uma ferramenta poderosa para transformar ideias em experiências relevantes e duradouras.
 
