@@ -115,7 +115,7 @@ Como profissional de tecnologia, meu objetivo é:
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React" title="React.js">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" title="Node.js">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Streamlit-Dark.svg" width="48" height="48" alt="Streamlit" title="Streamlit">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" title="Streamlit" style="filter: invert(1) brightness(1.5);">
 </div>
 
 ### 🚀 Migração para Cloud
