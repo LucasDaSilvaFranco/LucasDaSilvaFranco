@@ -1,6 +1,6 @@
 <div align="center">
 
-# Desenvolvedor Full Stack & Especialista em Infraestrutura
+# 🚀 Desenvolvedor Full Stack & Especialista em Infraestrutura
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
