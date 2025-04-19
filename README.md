@@ -6,22 +6,26 @@
   <img src="https://img.shields.io/badge/Process-Optimization-orange" alt="Process Optimization">
   <img src="https://img.shields.io/badge/Cloud-Expert-blueviolet" alt="Cloud Expert">
   <img src="https://img.shields.io/badge/Cyber-Security-red" alt="Cyber Security">
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-orange" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Azure-Certified-blue" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-Certified-orange" alt="AWS">
+  <img src="https://img.shields.io/badge/ITIL-Certified-purple" alt="ITIL">
 </div>
 
 ## 👨‍💻 Sobre Mim
 
-> "O cara do TI."
+> "O cara do TI que transforma desafios em soluções."
 
-Sou um profissional de TI apaixonado por tecnologia, com mais de 9 anos de experiência em desenvolvimento, infraestrutura e otimização de processos. Minha missão é impulsionar negócios através da tecnologia, combinando habilidades técnicas com visão estratégica.
+Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica.
 
-<details>
-<summary>🎯 Principais Conquistas</summary>
-
-- Implementação de soluções que reduziram custos operacionais
-- Automação de processos críticos de negócio
-- Migração bem-sucedida de infraestruturas para a nuvem
-- Desenvolvimento de soluções personalizadas para diversos setores
-</details>
+### 🎯 Principais Diferenciais
+- 🔍 Visão estratégica para solução de problemas complexos
+- 🚀 Capacidade de liderar projetos do conceito à implementação
+- 💡 Forte habilidade em otimização de processos
+- 🤝 Experiência em gestão de equipes e stakeholders
+- 📈 Foco em resultados mensuráveis
 
 ## 🛠️ Stack Tecnológico
 
@@ -58,30 +62,44 @@ Sou um profissional de TI apaixonado por tecnologia, com mais de 9 anos de exper
 }
 ```
 
+## 🎓 Certificações & Especializações
+- 📜 Microsoft Certified: Azure Administrator Associate
+- 📜 AWS Certified Solutions Architect
+- 📜 ITIL Foundation Certificate in IT Service Management
+- 📜 Scrum Foundation Professional Certificate
+
 ## 🚀 Experiência Profissional
 
 ### 🎯 Atual
-- **Especialista em Infraestrutura e Desenvolvimento**
-  - 🔹 Implementação de soluções em nuvem
-  - 🔹 Desenvolvimento de aplicações web
-  - 🔹 Gestão de infraestrutura de TI
-  - 🔹 Otimização de processos empresariais
+**Especialista em Infraestrutura e Desenvolvimento**
+- 🔹 Liderança em projetos de transformação digital
+- 🔹 Implementação de soluções em nuvem híbrida
+- 🔹 Desenvolvimento de aplicações web escaláveis
+- 🔹 Otimização de processos empresariais
 
-### 📈 Histórico de Impacto
-Com uma trajetória que começou em 2016, já implementei soluções que melhoraram significativamente os fluxos de trabalho em diversos setores:
-- 💼 TI
-- 👥 RH
-- 💰 Financeiro
-- 🎯 Atendimento
-- 📦 Logística
+### 📈 Projetos de Destaque
+1. **Migração para Cloud**
+   - Redução de 40% nos custos de infraestrutura
+   - Aumento de 99.9% na disponibilidade dos sistemas
+   - Implementação de disaster recovery
 
-## 💡 Destaques & Conquistas
-- 🔄 Especialista em otimização de processos e automação
-- 💻 Experiência em implementação de soluções digitais para produtividade
-- 📊 Foco em redução de custos e aumento de eficiência operacional
-- 🔍 Conhecimento em mapeamento de fluxos e automação de tarefas repetitivas
-- 📜 Certificações em tecnologias Microsoft e AWS
-- ☁️ Experiência em migração para nuvem e transformação digital
+2. **Automação de Processos**
+   - Redução de 60% no tempo de execução de tarefas
+   - Eliminação de processos manuais
+   - Integração entre diferentes sistemas
+
+3. **Segurança da Informação**
+   - Implementação de políticas de segurança
+   - Proteção contra ataques cibernéticos
+   - Conformidade com LGPD
+
+## 💡 Áreas de Expertise
+- 🔒 Cibersegurança e Proteção de Dados
+- 🔄 Automação e Otimização de Processos
+- ☁️ Computação em Nuvem e Infraestrutura
+- 💻 Desenvolvimento Full Stack
+- 📊 Business Intelligence
+- 👥 Gestão de Equipes
 
 ## 📫 Contato
 
@@ -96,7 +114,7 @@ Com uma trajetória que começou em 2016, já implementei soluções que melhora
 
 ## 🎯 Objetivo
 
-Busco constantemente desafios inovadores onde possa aplicar minha expertise em tecnologia para criar soluções que agreguem valor real aos negócios. Se você procura um profissional estratégico e apaixonado por tecnologia, vamos nos conectar!
+Busco oportunidades desafiadoras onde possa aplicar minha expertise em tecnologia para criar soluções inovadoras e impactantes. Meu compromisso é com a excelência técnica e a entrega de resultados que agreguem valor real aos negócios.
 
 ---
 
