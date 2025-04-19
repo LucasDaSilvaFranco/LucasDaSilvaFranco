@@ -20,11 +20,6 @@
   <img src="https://img.shields.io/badge/Automation-Expert-purple" alt="Automation">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasDaSilvaFranco&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasDaSilvaFranco&theme=tokyonight" alt="GitHub Streak" height="165">
-</p>
-
 </div>
 
 ---
