@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Lucas%20Franco&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=300&section=header&text=Lucas%20Franco&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20%26%20Especialista%20em%20Infraestrutura&descSize=20&descAlign=60)
 
 # 🚀 Desenvolvedor Full Stack & Especialista em Infraestrutura
 
