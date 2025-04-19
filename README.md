@@ -23,16 +23,26 @@
 
 ## 👨‍💻 Sobre Mim
 
+<div align="center">
+  
 > "O cara do TI que transforma desafios em soluções."
+
+</div>
 
 Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica.
 
 ### 🎯 Principais Diferenciais
-- 🔍 Visão estratégica para solução de problemas complexos
-- 🚀 Capacidade de liderar projetos do conceito à implementação
-- 💡 Forte habilidade em otimização de processos
-- 🤝 Experiência em gestão de equipes e stakeholders
-- 📈 Foco em resultados mensuráveis
+<div align="center">
+  
+| Habilidade | Descrição |
+|------------|-----------|
+| 🔍 Visão Estratégica | Solução de problemas complexos |
+| 🚀 Liderança | Projetos do conceito à implementação |
+| 💡 Otimização | Forte habilidade em processos |
+| 🤝 Gestão | Equipes e stakeholders |
+| 📈 Resultados | Foco em métricas mensuráveis |
+
+</div>
 
 ---
 
@@ -76,20 +86,33 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 ---
 
 ## 🎓 Formação Acadêmica
-- 📚 Pós-Graduação em Engenharia de Software (Em andamento)
-- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
-- 🎓 Graduação em Redes de Computadores
+<div align="center">
+  
+| Curso | Status |
+|-------|--------|
+| 📚 Pós-Graduação em Engenharia de Software | Em andamento |
+| 🎓 Graduação em Análise e Desenvolvimento de Sistemas | Concluído |
+| 🎓 Graduação em Redes de Computadores | Concluído |
+
+</div>
 
 ---
 
 ## 🚀 Experiência Profissional
 
 ### 🎯 Atual
+<div align="center">
+  
 **Especialista em Infraestrutura e Desenvolvimento**
-- 🔹 Liderança em projetos de transformação digital
-- 🔹 Implementação de soluções em nuvem híbrida
-- 🔹 Desenvolvimento de aplicações web escaláveis
-- 🔹 Otimização de processos empresariais
+  
+| Área | Atuação |
+|------|---------|
+| 🔹 Transformação Digital | Liderança em projetos |
+| 🔹 Cloud Computing | Implementação de soluções híbridas |
+| 🔹 Desenvolvimento | Aplicações web escaláveis |
+| 🔹 Processos | Otimização empresarial |
+
+</div>
 
 ### 📈 Projetos de Destaque
 <div align="center">
@@ -136,7 +159,11 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 
 ## 🎯 Objetivo
 
-Busco oportunidades desafiadoras onde possa aplicar minha expertise em tecnologia para criar soluções inovadoras e impactantes. Meu compromisso é com a excelência técnica e a entrega de resultados que agreguem valor real aos negócios.
+<div align="center">
+  
+> Busco oportunidades desafiadoras onde possa aplicar minha expertise em tecnologia para criar soluções inovadoras e impactantes. Meu compromisso é com a excelência técnica e a entrega de resultados que agreguem valor real aos negócios.
+
+</div>
 
 ---
 
