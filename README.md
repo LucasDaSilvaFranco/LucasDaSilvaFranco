@@ -9,9 +9,8 @@
   <br><br>
   <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-Advanced-orange" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Azure-Certified-blue" alt="Azure">
-  <img src="https://img.shields.io/badge/AWS-Certified-orange" alt="AWS">
-  <img src="https://img.shields.io/badge/ITIL-Certified-purple" alt="ITIL">
+  <img src="https://img.shields.io/badge/Cloud-Architecture-blue" alt="Cloud Architecture">
+  <img src="https://img.shields.io/badge/Network-Specialist-green" alt="Network">
 </div>
 
 ## 👨‍💻 Sobre Mim
@@ -19,6 +18,11 @@
 > "O cara do TI que transforma desafios em soluções."
 
 Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica.
+
+## 🎓 Formação Acadêmica
+- 📚 Pós-Graduação em Engenharia de Software (Em andamento)
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduação em Redes de Computadores
 
 ### 🎯 Principais Diferenciais
 - 🔍 Visão estratégica para solução de problemas complexos
@@ -61,12 +65,6 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
     "Gestão_de_Projetos": ["Metodologias Ágeis", "Scrum"]
 }
 ```
-
-## 🎓 Certificações & Especializações
-- 📜 Microsoft Certified: Azure Administrator Associate
-- 📜 AWS Certified Solutions Architect
-- 📜 ITIL Foundation Certificate in IT Service Management
-- 📜 Scrum Foundation Professional Certificate
 
 ## 🚀 Experiência Profissional
 
