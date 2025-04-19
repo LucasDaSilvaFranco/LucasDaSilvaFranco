@@ -131,13 +131,14 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 ---
 
 ## 💡 Áreas de Expertise
+- 🛠️ Especialista em Infraestrutura e Suporte
 - 🔒 Cibersegurança e Proteção de Dados
 - 🔄 Automação e Otimização de Processos
-- ☁️ Computação em Nuvem e Infraestrutura
 - 💻 Desenvolvimento Full Stack
 - 📊 Business Intelligence
-- �� Gestão de Equipes
-- 🛠️ Especialista em Infraestrutura e Suporte
+- ☁️ Computação em Nuvem
+- 👥 Gestão de Equipes
+
 
 ---
 
