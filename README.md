@@ -136,8 +136,8 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 - 🔄 Automação e Otimização de Processos
 - 💻 Desenvolvimento Full Stack
 - 📊 Business Intelligence
+- ☁️ Computação em Nuvem
 - �� Gestão de Equipes
-- 🛠️ Especialista em Infraestrutura e Suporte
 
 ---
 
