@@ -28,9 +28,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-> "Transformando desafios tecnológicos em soluções inovadoras que impulsionam o crescimento dos negócios."
+> "O cara do TI!."
 
-Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica, combinando habilidades técnicas sólidas com uma visão estratégica de negócios.
+Com mais de 9 anos de experiência em tecnologia, sou movido pela paixão por desenvolver soluções inteligentes e eficientes. Minha trajetória é marcada pela busca contínua por inovação e excelência técnica, aliando domínio prático a uma visão estratégica voltada para impacto real. Acredito na tecnologia como uma ferramenta poderosa para transformar ideias em experiências relevantes e duradouras.
 
 ### 🎯 Diferenciais Competitivos
 - 🔍 Visão estratégica para solução de problemas complexos
