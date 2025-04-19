@@ -13,9 +13,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-Advanced-orange" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Azure-Certified-blue" alt="Azure">
-  <img src="https://img.shields.io/badge/AWS-Certified-orange" alt="AWS">
   <img src="https://img.shields.io/badge/Streamlit-Expert-green" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Data-Science-blue" alt="Data Science">
+  <img src="https://img.shields.io/badge/Automation-Expert-purple" alt="Automation">
 </p>
 
 </div>
@@ -35,6 +35,21 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 - 🤝 Liderança de equipes multidisciplinares
 - 📈 Foco em resultados mensuráveis e ROI
 - 🔒 Forte conhecimento em segurança da informação
+
+---
+
+## 🎯 Objetivo Profissional
+
+Como profissional de tecnologia, meu objetivo é:
+
+- 🔹 Desenvolver soluções inovadoras que resolvam problemas reais e agreguem valor aos negócios
+- 🔹 Implementar arquiteturas modernas e escaláveis que garantam eficiência operacional
+- 🔹 Liderar equipes multidisciplinares com foco em resultados e inovação
+- 🔹 Contribuir para a transformação digital das organizações
+- 🔹 Promover a adoção de boas práticas de desenvolvimento e infraestrutura
+- 🔹 Criar ambientes seguros e resilientes para operações críticas
+- 🔹 Desenvolver aplicações de dados que facilitem a tomada de decisão
+- 🔹 Automatizar processos para aumentar a eficiência operacional
 
 ---
 
@@ -78,20 +93,10 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 
 ---
 
-## 🎓 Formação & Certificações
-
-### 📚 Formação Acadêmica
+## 🎓 Formação Acadêmica
 - 🎓 Pós-Graduação em Engenharia de Software (Em andamento)
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 🎓 Graduação em Redes de Computadores
-
-### 📜 Certificações
-- Microsoft Certified: Azure Solutions Architect Expert
-- AWS Certified Solutions Architect - Associate
-- ITIL v4 Foundation
-- Scrum Master Professional Certificate
-- CompTIA Security+
-- Linux Professional Institute Certification
 
 ---
 
