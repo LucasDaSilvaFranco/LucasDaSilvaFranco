@@ -43,7 +43,7 @@ Sou um profissional de TI apaixonado por tecnologia, com mais de 9 anos de exper
     "Frontend": ["JavaScript", "React", "Angular", "HTML5", "CSS3"],
     "APIs": ["REST", "Integrações"],
     "Scripting": ["PowerShell", "Bash", "Batch"],
-    "Banco_de_Dados": ["SQL Server", "MySQL", "MongoDB"]
+    "Banco_de_Dados": ["PostgreSQL", "SQL Server", "MySQL", "MongoDB"]
 }
 ```
 
