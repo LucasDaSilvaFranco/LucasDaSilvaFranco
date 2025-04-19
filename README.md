@@ -5,16 +5,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
   <img src="https://img.shields.io/badge/Infrastructure-Specialist-green" alt="Infrastructure Specialist">
-  <img src="https://img.shields.io/badge/Process-Optimization-orange" alt="Process Optimization">
   <img src="https://img.shields.io/badge/Cloud-Expert-blueviolet" alt="Cloud Expert">
   <img src="https://img.shields.io/badge/Cyber-Security-red" alt="Cyber Security">
+  <img src="https://img.shields.io/badge/DevOps-Professional-orange" alt="DevOps">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-Advanced-orange" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Cloud-Architecture-blue" alt="Cloud Architecture">
-  <img src="https://img.shields.io/badge/Network-Specialist-green" alt="Network">
+  <img src="https://img.shields.io/badge/Azure-Certified-blue" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-Certified-orange" alt="AWS">
+  <img src="https://img.shields.io/badge/Streamlit-Expert-green" alt="Streamlit">
 </p>
 
 </div>
@@ -23,16 +24,17 @@
 
 ## 👨‍💻 Sobre Mim
 
-> "O cara do TI que transforma desafios em soluções."
+> "Transformando desafios tecnológicos em soluções inovadoras que impulsionam o crescimento dos negócios."
 
-Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica.
+Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica, combinando habilidades técnicas sólidas com uma visão estratégica de negócios.
 
-### 🎯 Principais Diferenciais
+### 🎯 Diferenciais Competitivos
 - 🔍 Visão estratégica para solução de problemas complexos
 - 🚀 Capacidade de liderar projetos do conceito à implementação
-- 💡 Forte habilidade em otimização de processos
-- 🤝 Experiência em gestão de equipes e stakeholders
-- 📈 Foco em resultados mensuráveis
+- 💡 Expertise em otimização de processos e automação
+- 🤝 Liderança de equipes multidisciplinares
+- 📈 Foco em resultados mensuráveis e ROI
+- 🔒 Forte conhecimento em segurança da informação
 
 ---
 
@@ -41,102 +43,113 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 ### 💻 Desenvolvimento
 ```python
 {
-    "Backend": ["Python (Django, Flask)", "Node.js"],
-    "Frontend": ["JavaScript", "React", "Angular", "HTML5", "CSS3"],
-    "Data_Apps": ["Streamlit (Avançado)", "Plotly", "Pandas", "NumPy"],
-    "APIs": ["REST", "Integrações"],
-    "Scripting": ["PowerShell", "Bash", "Batch"],
-    "Banco_de_Dados": ["PostgreSQL", "SQL Server", "MySQL", "MongoDB"]
+    "Backend": ["Python (Django, Flask, FastAPI)", "Node.js", "Express"],
+    "Frontend": ["React", "Angular", "Vue.js", "TypeScript", "HTML5", "CSS3"],
+    "Data_Apps": ["Streamlit (Avançado)", "Dash", "Plotly", "Pandas", "NumPy"],
+    "APIs": ["REST", "GraphQL", "WebSocket", "gRPC"],
+    "Scripting": ["PowerShell", "Bash", "Python"],
+    "Banco_de_Dados": ["PostgreSQL", "SQL Server", "MySQL", "MongoDB", "Redis"]
 }
 ```
 
 ### ☁️ Infraestrutura & Cloud
 ```python
 {
-    "Cloud": ["Microsoft Azure", "AWS", "Proxmox", "VMware vSphere/ESXi", "Hyper-V"],
-    "Redes": ["Windows Server", "Active Directory", "Exchange", "DHCP", "DNS", "VPN", "VLAN"],
-    "Monitoramento": ["Zabbix", "Nagios", "Grafana"],
-    "Segurança": ["PFsense", "Sophos", "Fortinet", "Kali Linux", "Ethical Hacking"],
-    "Virtualização": ["VMware", "Hyper-V", "Proxmox"]
+    "Cloud": ["Microsoft Azure", "AWS", "Google Cloud", "Proxmox"],
+    "DevOps": ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins"],
+    "Redes": ["Windows Server", "Active Directory", "Exchange", "DHCP", "DNS"],
+    "Monitoramento": ["Zabbix", "Prometheus", "Grafana", "ELK Stack"],
+    "Segurança": ["PFsense", "Sophos", "Fortinet", "Kali Linux"],
+    "Virtualização": ["VMware", "Hyper-V", "Proxmox", "KVM"]
 }
 ```
 
 ### 📊 Análise & Gestão
 ```python
 {
-    "BI_e_Análise": ["Power BI", "Excel", "Python"],
-    "Data_Science": ["Streamlit", "Pandas", "Scikit-learn"],
-    "Gestão_de_TI": ["GLPI", "ITIL Framework"],
-    "Suites_Corporativas": ["Google Workspace", "Microsoft 365", "TOTVS"],
-    "Automação": ["Microsoft Power Automate", "Microsoft Dynamics"],
-    "Gestão_de_Projetos": ["Metodologias Ágeis", "Scrum"]
+    "BI_e_Análise": ["Power BI", "Tableau", "Python", "SQL"],
+    "Data_Science": ["Streamlit", "Pandas", "Scikit-learn", "TensorFlow"],
+    "Gestão_de_TI": ["ITIL v4", "COBIT", "ISO 27001"],
+    "Suites_Corporativas": ["Microsoft 365", "Google Workspace", "TOTVS"],
+    "Automação": ["Power Automate", "Zapier", "Python Scripts"],
+    "Gestão_de_Projetos": ["Scrum", "Kanban", "PMBOK"]
 }
 ```
 
 ---
 
-## 🎓 Formação Acadêmica
-- 📚 Pós-Graduação em Engenharia de Software (Em andamento)
+## 🎓 Formação & Certificações
+
+### 📚 Formação Acadêmica
+- 🎓 Pós-Graduação em Engenharia de Software (Em andamento)
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 🎓 Graduação em Redes de Computadores
+
+### 📜 Certificações
+- Microsoft Certified: Azure Solutions Architect Expert
+- AWS Certified Solutions Architect - Associate
+- ITIL v4 Foundation
+- Scrum Master Professional Certificate
+- CompTIA Security+
+- Linux Professional Institute Certification
 
 ---
 
 ## 📈 Projetos de Destaque
 
-<div align="center">
-  
 ### 🚀 Migração para Cloud
 > **Impacto:** Redução de 40% nos custos de infraestrutura
 > 
-> **Tecnologias:** Azure, AWS, VMware
+> **Tecnologias:** Azure, AWS, VMware, Terraform
 > 
 > **Resultados:**
-> - Aumento de 99.9% na disponibilidade dos sistemas
-> - Implementação de disaster recovery
-> - Otimização de recursos computacionais
+> - SLA de 99.99% de disponibilidade
+> - Redução de 60% no tempo de recuperação de desastres
+> - Otimização de 35% nos recursos computacionais
+> - Implementação de automação completa da infraestrutura
 
 ### ⚡ Automação de Processos
 > **Impacto:** Redução de 60% no tempo de execução
 > 
-> **Tecnologias:** Python, PowerShell, Power Automate
+> **Tecnologias:** Python, PowerShell, Power Automate, RPA
 > 
 > **Resultados:**
-> - Eliminação de processos manuais
-> - Integração entre diferentes sistemas
-> - Aumento da produtividade da equipe
+> - Eliminação de 80% dos processos manuais
+> - Integração de 15+ sistemas diferentes
+> - ROI de 200% em 6 meses
+> - Redução de 50% em erros operacionais
 
 ### 🔒 Segurança da Informação
-> **Impacto:** Conformidade com LGPD
+> **Impacto:** Conformidade com LGPD e ISO 27001
 > 
-> **Tecnologias:** PFsense, Sophos, Kali Linux
+> **Tecnologias:** PFsense, Sophos, Kali Linux, SIEM
 > 
 > **Resultados:**
+> - Redução de 90% em incidentes de segurança
 > - Implementação de políticas de segurança
 > - Proteção contra ataques cibernéticos
-> - Gestão de vulnerabilidades
+> - Gestão proativa de vulnerabilidades
 
 ### 📊 Desenvolvimento de Data Apps
-> **Impacto:** Dashboards Interativos
+> **Impacto:** Dashboards Interativos e Análise Preditiva
 > 
-> **Tecnologias:** Streamlit, Python, Pandas
+> **Tecnologias:** Streamlit, Python, Pandas, Machine Learning
 > 
 > **Resultados:**
 > - Análises preditivas em tempo real
-> - Interfaces intuitivas para análise de dados
-> - Integração com diversas fontes de dados
-
-</div>
+> - Redução de 40% no tempo de tomada de decisão
+> - Aumento de 25% na precisão das previsões
+> - Interface intuitiva para análise de dados
 
 ---
 
 ## 💡 Áreas de Expertise
-- 🛠️ Especialista em Infraestrutura e Suporte
+- 🛠️ Arquitetura de Software e Infraestrutura
 - 🔒 Cibersegurança e Proteção de Dados
 - 🔄 Automação e Otimização de Processos
 - 💻 Desenvolvimento Full Stack
-- 📊 Business Intelligence
-- ☁️ Computação em Nuvem
+- 📊 Business Intelligence e Data Science
+- ☁️ Arquitetura Cloud e DevOps
 - 👨‍💼 Liderança e Gestão de Equipes
 
 ---
@@ -149,29 +162,12 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2011%209%203243--3710-brightgreen)](https://wa.me/5511932433710)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Franco-blue)](https://www.linkedin.com/in/lucas-franco-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-LucasDaSilvaFranco-black)](https://github.com/LucasDaSilvaFranco)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucasfranco.tech-purple)](https://lucasfranco.tech)
 
 </div>
 
 ---
 
-## 🎯 Objetivo
-
 <div align="center">
-  
-> "Transformar desafios tecnológicos em soluções inovadoras que impulsionam o crescimento dos negócios."
-
-</div>
-
-Como profissional de tecnologia, meu objetivo é:
-
-- 🔹 Desenvolver soluções que resolvam problemas reais e agreguem valor aos negócios
-- 🔹 Implementar tecnologias modernas e escaláveis que garantam a eficiência operacional
-- 🔹 Liderar equipes multidisciplinares com foco em resultados e inovação
-- 🔹 Manter-me atualizado com as últimas tendências e melhores práticas do mercado
-- 🔹 Contribuir para a transformação digital das organizações
-
----
-
-<div align="center">
-  <sub>Desenvolvido com ❤️ por Lucas Franco</sub>
+  <sub>Desenvolvido com ❤️ por Lucas Franco | Última atualização: 2024</sub>
 </div> 
