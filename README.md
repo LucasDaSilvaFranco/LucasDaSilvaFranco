@@ -136,7 +136,8 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 - ☁️ Computação em Nuvem e Infraestrutura
 - 💻 Desenvolvimento Full Stack
 - 📊 Business Intelligence
-- 👥 Gestão de Equipes
+- �� Gestão de Equipes
+- 🛠️ Especialista em Infraestrutura e Suporte
 
 ---
 
