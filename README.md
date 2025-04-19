@@ -137,7 +137,7 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 - 💻 Desenvolvimento Full Stack
 - 📊 Business Intelligence
 - ☁️ Computação em Nuvem
-- �� Gestão de Equipes
+- 👨‍💼 Liderança e Gestão de Equipes
 
 ---
 
