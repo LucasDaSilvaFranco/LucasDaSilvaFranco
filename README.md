@@ -1,19 +1,22 @@
-# Desenvolvedor Full Stack & Especialista em Infraestrutura
-
 <div align="center">
 
 # Desenvolvedor Full Stack & Especialista em Infraestrutura
 
+<p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
   <img src="https://img.shields.io/badge/Infrastructure-Specialist-green" alt="Infrastructure Specialist">
   <img src="https://img.shields.io/badge/Process-Optimization-orange" alt="Process Optimization">
   <img src="https://img.shields.io/badge/Cloud-Expert-blueviolet" alt="Cloud Expert">
   <img src="https://img.shields.io/badge/Cyber-Security-red" alt="Cyber Security">
-  <br><br>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-Advanced-orange" alt="JavaScript">
   <img src="https://img.shields.io/badge/Cloud-Architecture-blue" alt="Cloud Architecture">
   <img src="https://img.shields.io/badge/Network-Specialist-green" alt="Network">
+</p>
+
 </div>
 
 ## 👨‍💻 Sobre Mim
