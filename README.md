@@ -82,36 +82,51 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 
 ---
 
-## 🚀 Experiência Profissional
+## 📈 Projetos de Destaque
 
-### 🎯 Atual
-**Especialista em Infraestrutura e Desenvolvimento**
-- 🔹 Liderança em projetos de transformação digital
-- 🔹 Implementação de soluções em nuvem híbrida
-- 🔹 Desenvolvimento de aplicações web escaláveis
-- 🔹 Otimização de processos empresariais
+<div align="center">
+  
+### 🚀 Migração para Cloud
+> **Impacto:** Redução de 40% nos custos de infraestrutura
+> 
+> **Tecnologias:** Azure, AWS, VMware
+> 
+> **Resultados:**
+> - Aumento de 99.9% na disponibilidade dos sistemas
+> - Implementação de disaster recovery
+> - Otimização de recursos computacionais
 
-### 📈 Projetos de Destaque
-1. **Migração para Cloud**
-   - Redução de 40% nos custos de infraestrutura
-   - Aumento de 99.9% na disponibilidade dos sistemas
-   - Implementação de disaster recovery
+### ⚡ Automação de Processos
+> **Impacto:** Redução de 60% no tempo de execução
+> 
+> **Tecnologias:** Python, PowerShell, Power Automate
+> 
+> **Resultados:**
+> - Eliminação de processos manuais
+> - Integração entre diferentes sistemas
+> - Aumento da produtividade da equipe
 
-2. **Automação de Processos**
-   - Redução de 60% no tempo de execução de tarefas
-   - Eliminação de processos manuais
-   - Integração entre diferentes sistemas
+### 🔒 Segurança da Informação
+> **Impacto:** Conformidade com LGPD
+> 
+> **Tecnologias:** PFsense, Sophos, Kali Linux
+> 
+> **Resultados:**
+> - Implementação de políticas de segurança
+> - Proteção contra ataques cibernéticos
+> - Gestão de vulnerabilidades
 
-3. **Segurança da Informação**
-   - Implementação de políticas de segurança
-   - Proteção contra ataques cibernéticos
-   - Conformidade com LGPD
+### 📊 Desenvolvimento de Data Apps
+> **Impacto:** Dashboards Interativos
+> 
+> **Tecnologias:** Streamlit, Python, Pandas
+> 
+> **Resultados:**
+> - Análises preditivas em tempo real
+> - Interfaces intuitivas para análise de dados
+> - Integração com diversas fontes de dados
 
-4. **Desenvolvimento de Data Apps**
-   - Criação de dashboards interativos com Streamlit
-   - Implementação de análises preditivas em tempo real
-   - Desenvolvimento de interfaces intuitivas para análise de dados
-   - Integração com diversas fontes de dados e APIs
+</div>
 
 ---
 
@@ -140,7 +155,19 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 
 ## 🎯 Objetivo
 
-Busco oportunidades desafiadoras onde possa aplicar minha expertise em tecnologia para criar soluções inovadoras e impactantes. Meu compromisso é com a excelência técnica e a entrega de resultados que agreguem valor real aos negócios.
+<div align="center">
+  
+> "Transformar desafios tecnológicos em soluções inovadoras que impulsionam o crescimento dos negócios."
+
+</div>
+
+Como profissional de tecnologia, meu objetivo é:
+
+- 🔹 Desenvolver soluções que resolvam problemas reais e agreguem valor aos negócios
+- 🔹 Implementar tecnologias modernas e escaláveis que garantam a eficiência operacional
+- 🔹 Liderar equipes multidisciplinares com foco em resultados e inovação
+- 🔹 Manter-me atualizado com as últimas tendências e melhores práticas do mercado
+- 🔹 Contribuir para a transformação digital das organizações
 
 ---
 
