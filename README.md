@@ -65,7 +65,7 @@ Com uma trajetória que começou em 2016, já implementei soluções que melhora
 - 📧 E-mail: lucas.franco.tech@gmail.com
 - 📱 WhatsApp: +55 (11) 9 3243-3710
 - 💼 LinkedIn: [Lucas Franco](https://www.linkedin.com/in/lucas-franco-tech/)
-- 🌐 GitHub: [Seu perfil do GitHub]
+- 🌐 GitHub: [LucasDaSilvaFranco](https://github.com/LucasDaSilvaFranco)
 
 ## 🎯 Objetivo
 
