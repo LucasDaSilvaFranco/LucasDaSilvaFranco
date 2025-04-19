@@ -44,6 +44,7 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 {
     "Backend": ["Python (Django, Flask)", "Node.js"],
     "Frontend": ["JavaScript", "React", "Angular", "HTML5", "CSS3"],
+    "Data_Apps": ["Streamlit (Avançado)", "Plotly", "Pandas", "NumPy"],
     "APIs": ["REST", "Integrações"],
     "Scripting": ["PowerShell", "Bash", "Batch"],
     "Banco_de_Dados": ["PostgreSQL", "SQL Server", "MySQL", "MongoDB"]
@@ -65,6 +66,7 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 ```python
 {
     "BI_e_Análise": ["Power BI", "Excel", "Python"],
+    "Data_Science": ["Streamlit", "Pandas", "Scikit-learn"],
     "Gestão_de_TI": ["GLPI", "ITIL Framework"],
     "Suites_Corporativas": ["Google Workspace", "Microsoft 365", "TOTVS"],
     "Automação": ["Microsoft Power Automate", "Microsoft Dynamics"],
@@ -96,6 +98,12 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
    - Implementação de políticas de segurança
    - Proteção contra ataques cibernéticos
    - Conformidade com LGPD
+
+4. **Desenvolvimento de Data Apps**
+   - Criação de dashboards interativos com Streamlit
+   - Implementação de análises preditivas em tempo real
+   - Desenvolvimento de interfaces intuitivas para análise de dados
+   - Integração com diversas fontes de dados e APIs
 
 ## 💡 Áreas de Expertise
 - 🔒 Cibersegurança e Proteção de Dados
