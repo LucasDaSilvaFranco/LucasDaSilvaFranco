@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Lucas%20Franco&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
 # 🚀 Desenvolvedor Full Stack & Especialista em Infraestrutura
 
 <p align="center">
@@ -16,6 +18,11 @@
   <img src="https://img.shields.io/badge/Streamlit-Expert-green" alt="Streamlit">
   <img src="https://img.shields.io/badge/Data-Science-blue" alt="Data Science">
   <img src="https://img.shields.io/badge/Automation-Expert-purple" alt="Automation">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasDaSilvaFranco&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasDaSilvaFranco&theme=tokyonight" alt="GitHub Streak" height="165">
 </p>
 
 </div>
@@ -94,13 +101,24 @@ Como profissional de tecnologia, meu objetivo é:
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 Pós-Graduação em Engenharia de Software (Em andamento)
-- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 🎓 Graduação em Redes de Computadores
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
+- 🎓 Pós-Graduação em Engenharia de Software (Em andamento)
 
 ---
 
 ## 📈 Projetos de Destaque
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="48" height="48" alt="AWS">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="Azure">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" height="48" alt="Docker">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="48" height="48" alt="Kubernetes">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB">
+</div>
 
 ### 🚀 Migração para Cloud
 > **Impacto:** Redução de 40% nos custos de infraestrutura
@@ -174,5 +192,6 @@ Como profissional de tecnologia, meu objetivo é:
 ---
 
 <div align="center">
-  <sub>Desenvolvido com ❤️ por Lucas Franco | Última atualização: 2024</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=100&section=footer" width="100%">
+  <sub>Desenvolvido com ❤️ por Lucas Franco | Última atualização: Abril/2025</sub>
 </div> 
