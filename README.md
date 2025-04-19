@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Lucas%20Franco&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:34495e&height=200&section=header&text=Lucas%20Franco&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=ffffff" alt="Banner Lucas Franco">
+</p>
+
 
 # 🚀 Desenvolvedor Full Stack & Especialista em Infraestrutura
 
