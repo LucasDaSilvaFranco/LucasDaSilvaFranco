@@ -32,17 +32,11 @@
 Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica.
 
 ### 🎯 Principais Diferenciais
-<div align="center">
-  
-| Habilidade | Descrição |
-|------------|-----------|
-| 🔍 Visão Estratégica | Solução de problemas complexos |
-| 🚀 Liderança | Projetos do conceito à implementação |
-| 💡 Otimização | Forte habilidade em processos |
-| 🤝 Gestão | Equipes e stakeholders |
-| 📈 Resultados | Foco em métricas mensuráveis |
-
-</div>
+- 🔍 **Visão Estratégica**: Solução de problemas complexos com abordagem inovadora
+- 🚀 **Liderança**: Capacidade de conduzir projetos do conceito à implementação
+- 💡 **Otimização**: Expertise em melhorar processos e aumentar eficiência
+- 🤝 **Gestão**: Experiência em liderar equipes e gerenciar stakeholders
+- 📈 **Resultados**: Foco em métricas e entregas mensuráveis
 
 ---
 
@@ -86,61 +80,51 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 ---
 
 ## 🎓 Formação Acadêmica
-<div align="center">
-  
-| Curso | Status |
-|-------|--------|
-| 📚 Pós-Graduação em Engenharia de Software | Em andamento |
-| 🎓 Graduação em Análise e Desenvolvimento de Sistemas | Concluído |
-| 🎓 Graduação em Redes de Computadores | Concluído |
-
-</div>
+- 📚 **Pós-Graduação em Engenharia de Software** (Em andamento)
+- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** (Concluído)
+- 🎓 **Graduação em Redes de Computadores** (Concluído)
 
 ---
 
 ## 🚀 Experiência Profissional
 
 ### 🎯 Atual
-<div align="center">
-  
 **Especialista em Infraestrutura e Desenvolvimento**
-  
-| Área | Atuação |
-|------|---------|
-| 🔹 Transformação Digital | Liderança em projetos |
-| 🔹 Cloud Computing | Implementação de soluções híbridas |
-| 🔹 Desenvolvimento | Aplicações web escaláveis |
-| 🔹 Processos | Otimização empresarial |
-
-</div>
+- 🔹 **Transformação Digital**: Liderança em projetos inovadores
+- 🔹 **Cloud Computing**: Implementação de soluções híbridas
+- 🔹 **Desenvolvimento**: Criação de aplicações web escaláveis
+- 🔹 **Processos**: Otimização de operações empresariais
 
 ### 📈 Projetos de Destaque
-<div align="center">
-  
-| Projeto | Impacto | Tecnologias |
-|---------|---------|-------------|
-| Migração para Cloud | Redução de 40% nos custos | Azure, AWS |
-| Automação de Processos | Redução de 60% no tempo | Python, PowerShell |
-| Segurança da Informação | Conformidade LGPD | PFsense, Sophos |
-| Data Apps | Dashboards Interativos | Streamlit, Python |
+- **Migração para Cloud**
+  - Redução de 40% nos custos de infraestrutura
+  - Aumento de 99.9% na disponibilidade dos sistemas
+  - Implementação de disaster recovery
 
-</div>
+- **Automação de Processos**
+  - Redução de 60% no tempo de execução de tarefas
+  - Eliminação de processos manuais
+  - Integração entre diferentes sistemas
+
+- **Segurança da Informação**
+  - Implementação de políticas de segurança
+  - Proteção contra ataques cibernéticos
+  - Conformidade com LGPD
+
+- **Desenvolvimento de Data Apps**
+  - Criação de dashboards interativos com Streamlit
+  - Implementação de análises preditivas em tempo real
+  - Desenvolvimento de interfaces intuitivas para análise de dados
 
 ---
 
 ## 💡 Áreas de Expertise
-<div align="center">
-  
-| Área | Nível | Foco |
-|------|-------|------|
-| Cibersegurança | 🔒 Avançado | Proteção de Dados |
-| Automação | 🔄 Expert | Otimização de Processos |
-| Cloud Computing | ☁️ Avançado | Infraestrutura |
-| Desenvolvimento | 💻 Full Stack | Aplicações Web |
-| Business Intelligence | 📊 Avançado | Análise de Dados |
-| Gestão de Equipes | 👥 Experiente | Liderança |
-
-</div>
+- 🔒 **Cibersegurança**: Proteção de Dados e Segurança da Informação
+- 🔄 **Automação**: Otimização de Processos e Eficiência Operacional
+- ☁️ **Cloud Computing**: Infraestrutura e Arquitetura em Nuvem
+- 💻 **Desenvolvimento**: Full Stack e Aplicações Web
+- 📊 **Business Intelligence**: Análise de Dados e Tomada de Decisão
+- 👥 **Gestão**: Liderança de Equipes e Projetos
 
 ---
 
