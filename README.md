@@ -23,20 +23,16 @@
 
 ## 👨‍💻 Sobre Mim
 
-<div align="center">
-  
 > "O cara do TI que transforma desafios em soluções."
-
-</div>
 
 Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica.
 
 ### 🎯 Principais Diferenciais
-- 🔍 **Visão Estratégica**: Solução de problemas complexos com abordagem inovadora
-- 🚀 **Liderança**: Capacidade de conduzir projetos do conceito à implementação
-- 💡 **Otimização**: Expertise em melhorar processos e aumentar eficiência
-- 🤝 **Gestão**: Experiência em liderar equipes e gerenciar stakeholders
-- 📈 **Resultados**: Foco em métricas e entregas mensuráveis
+- 🔍 Visão estratégica para solução de problemas complexos
+- 🚀 Capacidade de liderar projetos do conceito à implementação
+- 💡 Forte habilidade em otimização de processos
+- 🤝 Experiência em gestão de equipes e stakeholders
+- 📈 Foco em resultados mensuráveis
 
 ---
 
@@ -80,9 +76,9 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 ---
 
 ## 🎓 Formação Acadêmica
-- 📚 **Pós-Graduação em Engenharia de Software** (Em andamento)
-- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** (Concluído)
-- 🎓 **Graduação em Redes de Computadores** (Concluído)
+- 📚 Pós-Graduação em Engenharia de Software (Em andamento)
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduação em Redes de Computadores
 
 ---
 
@@ -90,41 +86,42 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 
 ### 🎯 Atual
 **Especialista em Infraestrutura e Desenvolvimento**
-- 🔹 **Transformação Digital**: Liderança em projetos inovadores
-- 🔹 **Cloud Computing**: Implementação de soluções híbridas
-- 🔹 **Desenvolvimento**: Criação de aplicações web escaláveis
-- 🔹 **Processos**: Otimização de operações empresariais
+- 🔹 Liderança em projetos de transformação digital
+- 🔹 Implementação de soluções em nuvem híbrida
+- 🔹 Desenvolvimento de aplicações web escaláveis
+- 🔹 Otimização de processos empresariais
 
 ### 📈 Projetos de Destaque
-- **Migração para Cloud**
-  - Redução de 40% nos custos de infraestrutura
-  - Aumento de 99.9% na disponibilidade dos sistemas
-  - Implementação de disaster recovery
+1. **Migração para Cloud**
+   - Redução de 40% nos custos de infraestrutura
+   - Aumento de 99.9% na disponibilidade dos sistemas
+   - Implementação de disaster recovery
 
-- **Automação de Processos**
-  - Redução de 60% no tempo de execução de tarefas
-  - Eliminação de processos manuais
-  - Integração entre diferentes sistemas
+2. **Automação de Processos**
+   - Redução de 60% no tempo de execução de tarefas
+   - Eliminação de processos manuais
+   - Integração entre diferentes sistemas
 
-- **Segurança da Informação**
-  - Implementação de políticas de segurança
-  - Proteção contra ataques cibernéticos
-  - Conformidade com LGPD
+3. **Segurança da Informação**
+   - Implementação de políticas de segurança
+   - Proteção contra ataques cibernéticos
+   - Conformidade com LGPD
 
-- **Desenvolvimento de Data Apps**
-  - Criação de dashboards interativos com Streamlit
-  - Implementação de análises preditivas em tempo real
-  - Desenvolvimento de interfaces intuitivas para análise de dados
+4. **Desenvolvimento de Data Apps**
+   - Criação de dashboards interativos com Streamlit
+   - Implementação de análises preditivas em tempo real
+   - Desenvolvimento de interfaces intuitivas para análise de dados
+   - Integração com diversas fontes de dados e APIs
 
 ---
 
 ## 💡 Áreas de Expertise
-- 🔒 **Cibersegurança**: Proteção de Dados e Segurança da Informação
-- 🔄 **Automação**: Otimização de Processos e Eficiência Operacional
-- ☁️ **Cloud Computing**: Infraestrutura e Arquitetura em Nuvem
-- 💻 **Desenvolvimento**: Full Stack e Aplicações Web
-- 📊 **Business Intelligence**: Análise de Dados e Tomada de Decisão
-- 👥 **Gestão**: Liderança de Equipes e Projetos
+- 🔒 Cibersegurança e Proteção de Dados
+- 🔄 Automação e Otimização de Processos
+- ☁️ Computação em Nuvem e Infraestrutura
+- 💻 Desenvolvimento Full Stack
+- 📊 Business Intelligence
+- 👥 Gestão de Equipes
 
 ---
 
@@ -143,11 +140,7 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 
 ## 🎯 Objetivo
 
-<div align="center">
-  
-> Busco oportunidades desafiadoras onde possa aplicar minha expertise em tecnologia para criar soluções inovadoras e impactantes. Meu compromisso é com a excelência técnica e a entrega de resultados que agreguem valor real aos negócios.
-
-</div>
+Busco oportunidades desafiadoras onde possa aplicar minha expertise em tecnologia para criar soluções inovadoras e impactantes. Meu compromisso é com a excelência técnica e a entrega de resultados que agreguem valor real aos negócios.
 
 ---
 
