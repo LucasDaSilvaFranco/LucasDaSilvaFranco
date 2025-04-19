@@ -6,17 +6,6 @@
   <img src="https://img.shields.io/badge/Process-Optimization-orange" alt="Process Optimization">
   <img src="https://img.shields.io/badge/Cloud-Expert-blueviolet" alt="Cloud Expert">
   <img src="https://img.shields.io/badge/Cyber-Security-red" alt="Cyber Security">
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LucasDaSilvaFranco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/LucasDaSilvaFranco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDaSilvaFranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDaSilvaFranco&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </div>
 
 ## 👨‍💻 Sobre Mim
