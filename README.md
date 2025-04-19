@@ -19,16 +19,13 @@
 
 </div>
 
+---
+
 ## 👨‍💻 Sobre Mim
 
 > "O cara do TI que transforma desafios em soluções."
 
 Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado por criar soluções que impactam positivamente os negócios. Minha jornada é marcada pela busca constante de inovação e excelência técnica.
-
-## 🎓 Formação Acadêmica
-- 📚 Pós-Graduação em Engenharia de Software (Em andamento)
-- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
-- 🎓 Graduação em Redes de Computadores
 
 ### 🎯 Principais Diferenciais
 - 🔍 Visão estratégica para solução de problemas complexos
@@ -36,6 +33,8 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 - 💡 Forte habilidade em otimização de processos
 - 🤝 Experiência em gestão de equipes e stakeholders
 - 📈 Foco em resultados mensuráveis
+
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -74,6 +73,15 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 }
 ```
 
+---
+
+## 🎓 Formação Acadêmica
+- 📚 Pós-Graduação em Engenharia de Software (Em andamento)
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduação em Redes de Computadores
+
+---
+
 ## 🚀 Experiência Profissional
 
 ### 🎯 Atual
@@ -84,34 +92,34 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 - 🔹 Otimização de processos empresariais
 
 ### 📈 Projetos de Destaque
-1. **Migração para Cloud**
-   - Redução de 40% nos custos de infraestrutura
-   - Aumento de 99.9% na disponibilidade dos sistemas
-   - Implementação de disaster recovery
+<div align="center">
+  
+| Projeto | Impacto | Tecnologias |
+|---------|---------|-------------|
+| Migração para Cloud | Redução de 40% nos custos | Azure, AWS |
+| Automação de Processos | Redução de 60% no tempo | Python, PowerShell |
+| Segurança da Informação | Conformidade LGPD | PFsense, Sophos |
+| Data Apps | Dashboards Interativos | Streamlit, Python |
 
-2. **Automação de Processos**
-   - Redução de 60% no tempo de execução de tarefas
-   - Eliminação de processos manuais
-   - Integração entre diferentes sistemas
+</div>
 
-3. **Segurança da Informação**
-   - Implementação de políticas de segurança
-   - Proteção contra ataques cibernéticos
-   - Conformidade com LGPD
-
-4. **Desenvolvimento de Data Apps**
-   - Criação de dashboards interativos com Streamlit
-   - Implementação de análises preditivas em tempo real
-   - Desenvolvimento de interfaces intuitivas para análise de dados
-   - Integração com diversas fontes de dados e APIs
+---
 
 ## 💡 Áreas de Expertise
-- 🔒 Cibersegurança e Proteção de Dados
-- 🔄 Automação e Otimização de Processos
-- ☁️ Computação em Nuvem e Infraestrutura
-- 💻 Desenvolvimento Full Stack
-- 📊 Business Intelligence
-- 👥 Gestão de Equipes
+<div align="center">
+  
+| Área | Nível | Foco |
+|------|-------|------|
+| Cibersegurança | 🔒 Avançado | Proteção de Dados |
+| Automação | 🔄 Expert | Otimização de Processos |
+| Cloud Computing | ☁️ Avançado | Infraestrutura |
+| Desenvolvimento | 💻 Full Stack | Aplicações Web |
+| Business Intelligence | 📊 Avançado | Análise de Dados |
+| Gestão de Equipes | 👥 Experiente | Liderança |
+
+</div>
+
+---
 
 ## 📫 Contato
 
@@ -123,6 +131,8 @@ Com mais de 9 anos de experiência em tecnologia, sou um profissional apaixonado
 [![GitHub](https://img.shields.io/badge/GitHub-LucasDaSilvaFranco-black)](https://github.com/LucasDaSilvaFranco)
 
 </div>
+
+---
 
 ## 🎯 Objetivo
 
