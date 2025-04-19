@@ -109,12 +109,6 @@ Com uma trajetória que começou em 2016, já implementei soluções que melhora
 
 Busco constantemente desafios inovadores onde possa aplicar minha expertise em tecnologia para criar soluções que agreguem valor real aos negócios. Se você procura um profissional estratégico e apaixonado por tecnologia, vamos nos conectar!
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/LucasDaSilvaFranco/LucasDaSilvaFranco/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 ---
 
 <div align="center">
