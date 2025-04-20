@@ -11,55 +11,18 @@
     <summary>Clique para jogar!</summary>
     <br>
     <p>Estou pensando em um número entre 1 e 100. Você consegue adivinhar?</p>
-    <input type="number" id="guessInput" min="1" max="100" placeholder="Digite um número">
-    <button onclick="checkGuess()">Tentar</button>
-    <p id="result"></p>
-    <p id="attempts">Tentativas: 0</p>
-    <button onclick="resetGame()" style="display: none;" id="resetButton">Jogar novamente</button>
+    <p>Dica: O número é maior que 50 e menor que 75</p>
+    <p>Escolha uma opção:</p>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>🔢 51-55</li>
+      <li>🔢 56-60</li>
+      <li>🔢 61-65</li>
+      <li>🔢 66-70</li>
+      <li>🔢 71-74</li>
+    </ul>
+    <p>Resposta: <details><summary>Clique para revelar</summary>O número é 63! 🎉</details></p>
   </details>
 </div>
-
-<script>
-  let randomNumber = Math.floor(Math.random() * 100) + 1;
-  let attempts = 0;
-  const maxAttempts = 10;
-
-  function checkGuess() {
-    const guess = parseInt(document.getElementById('guessInput').value);
-    const result = document.getElementById('result');
-    const attemptsDisplay = document.getElementById('attempts');
-    const resetButton = document.getElementById('resetButton');
-
-    if (isNaN(guess) || guess < 1 || guess > 100) {
-      result.textContent = 'Por favor, digite um número válido entre 1 e 100.';
-      return;
-    }
-
-    attempts++;
-    attemptsDisplay.textContent = `Tentativas: ${attempts}`;
-
-    if (guess === randomNumber) {
-      result.textContent = `🎉 Parabéns! Você acertou em ${attempts} tentativas!`;
-      resetButton.style.display = 'inline-block';
-    } else if (attempts >= maxAttempts) {
-      result.textContent = `😢 Game Over! O número era ${randomNumber}.`;
-      resetButton.style.display = 'inline-block';
-    } else if (guess < randomNumber) {
-      result.textContent = '📈 Tente um número maior!';
-    } else {
-      result.textContent = '📉 Tente um número menor!';
-    }
-  }
-
-  function resetGame() {
-    randomNumber = Math.floor(Math.random() * 100) + 1;
-    attempts = 0;
-    document.getElementById('guessInput').value = '';
-    document.getElementById('result').textContent = '';
-    document.getElementById('attempts').textContent = 'Tentativas: 0';
-    document.getElementById('resetButton').style.display = 'none';
-  }
-</script>
 
 # 🚀 Desenvolvedor Full Stack & Especialista em Infraestrutura
 
