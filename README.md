@@ -4,23 +4,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Lucas%20Franco&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&descSize=20&descColor=ffffff&fontAlignY=35" alt="Banner Lucas Franco" width="100%">
 </p>
 
-# 🎮 Jogo da Adivinhação
+# 🎮 Jogo da Cobrinha
 
 <div align="center">
   <details>
-    <summary>Clique para jogar!</summary>
+    <summary>🐍 Clique para jogar!</summary>
     <br>
-    <p>Estou pensando em um número entre 1 e 100. Você consegue adivinhar?</p>
-    <p>Dica: O número é maior que 50 e menor que 75</p>
-    <p>Escolha uma opção:</p>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🔢 51-55</li>
-      <li>🔢 56-60</li>
-      <li>🔢 61-65</li>
-      <li>🔢 66-70</li>
-      <li>🔢 71-74</li>
-    </ul>
-    <p>Resposta: <details><summary>Clique para revelar</summary>O número é 63! 🎉</details></p>
+    <pre>
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜🟩🟩🟩⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+    </pre>
+    <p>Controles:</p>
+    <p>⬆️ Use as setas do teclado para mover a cobrinha</p>
+    <p>🟩 Cobrinha | 🟥 Comida | ⬜ Parede</p>
+    <p>Objetivo: Coma a comida (🟥) e cresça o máximo possível!</p>
+    <p>Dica: Evite bater nas paredes e em você mesmo!</p>
   </details>
 </div>
 
